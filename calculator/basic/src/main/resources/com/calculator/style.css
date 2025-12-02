@@ -1,0 +1,18 @@
+Button{
+    -fx-max-width: infinity;
+    -fx-max-height: infinity;
+}
+
+Label{
+    -fx-max-width: infinity;
+    -fx-border-color: black;
+    -fx-border-radius: 5px;
+}
+
+#calculation_output{
+    -fx-min-height: 30px;
+}
+
+#total_output{
+    -fx-min-height: 60px;
+}
