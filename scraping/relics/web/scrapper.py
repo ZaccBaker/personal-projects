@@ -52,7 +52,7 @@ class RelicScrapper:
 
         for index, table in enumerate(tables, start=1):
     
-            relic_items = table.find_all("li")
+            relic_items = table.find_all("a")
 
             for li in relic_items:
                 relic_name = li.get_text(strip=True)

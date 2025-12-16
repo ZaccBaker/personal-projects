@@ -17,7 +17,7 @@ class Control:
             relics_dict = dm.organize_data(relics_array)
 
             # Uncomment for total relic count
-            # dm.relic_count(relics_dict)
+            dm.relic_count(relics_dict)
 
             ExportManager(relics_dict)
             
