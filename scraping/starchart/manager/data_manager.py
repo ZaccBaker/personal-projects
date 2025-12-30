@@ -28,14 +28,12 @@ class DataManager:
     def starchart_dictonary(planet : str, mission_array : list):
         
         new_dict = {
-            planet : {
                 "Name" : [],
                 "Type" : []
-            }
         }
 
         for pair in mission_array:
-            new_dict[planet]["Name"].append(pair[0])
-            new_dict[planet]["Type"].append(pair[1])
+            new_dict["Name"].append(pair[0])
+            new_dict["Type"].append(pair[1])
 
         return new_dict
