@@ -1,0 +1,738 @@
+{
+  "Mercury": {
+    "Mercury": {
+      "Name": [
+        "Larunda Relay",
+        "Caloris",
+        "Pantheon",
+        "Lares",
+        "Apollodorus",
+        "Odin",
+        "M Prime",
+        "Elion",
+        "Tolstoj",
+        "Terminus",
+        "Boethius",
+        "Suisei"
+      ],
+      "Type": [
+        "Relay",
+        "Rescue",
+        "Exterminate",
+        "Defense",
+        "Survival",
+        "Interception",
+        "Exterminate",
+        "Capture",
+        "Assassination",
+        "Sabotage",
+        "Mobile Defense",
+        "Spy"
+      ]
+    }
+  },
+  "Venus": {
+    "Venus": {
+      "Name": [
+        "Fortuna",
+        "Mercury Junction",
+        "E Gate",
+        "Cytherean",
+        "V Prime",
+        "Tessera",
+        "Kiliken",
+        "Montes",
+        "Unda",
+        "Venera",
+        "Linea",
+        "Aphrodite",
+        "Ishtar",
+        "Fossa",
+        "Malva",
+        "Romula",
+        "Orb Vallis",
+        "Deepmines"
+      ],
+      "Type": [
+        "Hub",
+        "Junction",
+        "Exterminate",
+        "Interception",
+        "Survival",
+        "Defense",
+        "Excavation",
+        "Exterminate",
+        "Spy",
+        "Capture",
+        "Rescue",
+        "Mobile Defense",
+        "Sabotage",
+        "Assassination",
+        "Survival ( Dark Sector )",
+        "Defense ( Dark Sector )",
+        "Open World",
+        "Open World"
+      ]
+    }
+  },
+  "Earth": {
+    "Earth": {
+      "Name": [
+        "Cetus",
+        "Drifter's Camp",
+        "The Orbiter",
+        "Strata Relay",
+        "Mars Junction",
+        "Mariana",
+        "Venus Junction",
+        "E Prime",
+        "Everest",
+        "Gaia",
+        "Erpo",
+        "Lith",
+        "Cambria",
+        "Mantle",
+        "Eurasia",
+        "Pacific",
+        "Cervantes",
+        "Saya's Visions",
+        "Tikal",
+        "Coba",
+        "Plains of Eidolon",
+        "Oro"
+      ],
+      "Type": [
+        "Hub",
+        "Hub",
+        "Hub",
+        "Relay",
+        "Junction",
+        "Exterminate",
+        "Junction",
+        "Exterminate",
+        "Excavation",
+        "Interception",
+        "Mobile Defense",
+        "Defense",
+        "Spy",
+        "Capture",
+        "Mobile Defense",
+        "Rescue",
+        "Sabotage",
+        "Shrine Defense",
+        "Excavation ( Dark Sector )",
+        "Defense ( Dark Sector )",
+        "Open World",
+        "Assassination"
+      ]
+    }
+  },
+  "Lua": {
+    "Lua": {
+      "Name": [
+        "Copernicus",
+        "Pavlov",
+        "Tycho",
+        "St\u00f6fler",
+        "Plato",
+        "Zeipel",
+        "Yuvarium",
+        "Grimaldi",
+        "Apollo",
+        "Circulus"
+      ],
+      "Type": [
+        "Capture",
+        "Spy",
+        "Survival",
+        "Defense",
+        "Exterminate",
+        "Rescue",
+        "Survival",
+        "Mobile Defense",
+        "Disruption",
+        "Survival"
+      ]
+    }
+  },
+  "Mars": {
+    "Mars": {
+      "Name": [
+        "Maroo's Bazaar",
+        "Ceres Junction",
+        "Phobos Junction",
+        "Hellas",
+        "Tharsis",
+        "Alator",
+        "Spear",
+        "Syrtis",
+        "Ares",
+        "Gradivus",
+        "Arval",
+        "Augustus",
+        "Martialis",
+        "Ara",
+        "Wahiba",
+        "Kadesh",
+        "Vallis",
+        "War",
+        "Ultor",
+        "Olympus",
+        "Tyana Pass"
+      ],
+      "Type": [
+        "Relay",
+        "Junction",
+        "Junction",
+        "Exterminate",
+        "Mobile Defense",
+        "Interception",
+        "Defense",
+        "Exterminate",
+        "Sabotage",
+        "Sabotage",
+        "Spy",
+        "Excavation",
+        "Rescue",
+        "Capture",
+        "Survival ( Dark Sector )",
+        "Defense ( Dark Sector )",
+        "Mobile Defense",
+        "Assassination",
+        "Exterminate",
+        "Disruption",
+        "Mirror Defense"
+      ]
+    }
+  },
+  "Deimos": {
+    "Deimos": {
+      "Name": [
+        "Necralisk",
+        "Sanctum Anatomica",
+        "Jupiter Junction",
+        "Horend",
+        "Phlegyas",
+        "Formido",
+        "Dirus",
+        "Hyf",
+        "Magnacidium",
+        "Cambion Drift",
+        "Terrorem",
+        "Exequias",
+        "Armatus",
+        "Nex",
+        "Munio",
+        "Effervo",
+        "Cambire",
+        "Persto",
+        "Testudo"
+      ],
+      "Type": [
+        "Hub",
+        "Hub",
+        "Junction",
+        "Capture",
+        "Exterminate",
+        "Sabotage",
+        "Mobile Defense",
+        "Defense",
+        "Assassination",
+        "Open World",
+        "Survival",
+        "Assassination",
+        "Disruption",
+        "Exterminate",
+        "Mirror Defense",
+        "Assassination",
+        "Alchemy",
+        "Survival",
+        "Netracells"
+      ]
+    }
+  },
+  "Phobos": {
+    "Phobos": {
+      "Name": [
+        "Roche",
+        "Stickney",
+        "Gulliver",
+        "Shklovsky",
+        "Sharpless",
+        "Kepler",
+        "Skyresh",
+        "Monolith",
+        "Iliad",
+        "Zeugma",
+        "Memphis"
+      ],
+      "Type": [
+        "Exterminate",
+        "Survival",
+        "Defense",
+        "Spy",
+        "Mobile Defense",
+        "Rush (Archwing)",
+        "Capture",
+        "Rescue",
+        "Assassination",
+        "Survival ( Dark Sector )",
+        "Defection ( Dark Sector )"
+      ]
+    }
+  },
+  "Ceres": {
+    "Ceres": {
+      "Name": [
+        "Bode",
+        "Pallas",
+        "Casta",
+        "Cinxia",
+        "Draco",
+        "Nuovo",
+        "Kiste",
+        "Exta",
+        "Ker",
+        "Lex",
+        "Ludi",
+        "Thon",
+        "Seimeni",
+        "Gabii"
+      ],
+      "Type": [
+        "Spy",
+        "Exterminate",
+        "Defense",
+        "Interception",
+        "Survival",
+        "Rescue",
+        "Mobile Defense",
+        "Assassination",
+        "Sabotage",
+        "Capture",
+        "Hijack",
+        "Sabotage",
+        "Defense ( Dark Sector )",
+        "Survival ( Dark Sector )"
+      ]
+    }
+  },
+  "Jupiter": {
+    "Jupiter": {
+      "Name": [
+        "Europa Junction",
+        "Saturn Junction",
+        "Metis",
+        "Galilea",
+        "Elara",
+        "Callisto",
+        "Io",
+        "Ananke",
+        "Carme",
+        "Carpo",
+        "Amalthea",
+        "Thebe",
+        "Themisto",
+        "Adrastea",
+        "Cameria",
+        "Sinai",
+        "Ganymede",
+        "The Ropalolyst"
+      ],
+      "Type": [
+        "Junction",
+        "Junction",
+        "Rescue",
+        "Sabotage",
+        "Survival",
+        "Interception",
+        "Defense",
+        "Capture",
+        "Mobile Defense",
+        "Exterminate",
+        "Spy",
+        "Sabotage",
+        "Assassination",
+        "Sabotage",
+        "Survival ( Dark Sector )",
+        "Defense ( Dark Sector )",
+        "Disruption",
+        "Assassination"
+      ]
+    }
+  },
+  "Europa": {
+    "Europa": {
+      "Name": [
+        "Morax",
+        "Valac",
+        "Armaros",
+        "Paimon",
+        "Valefor",
+        "Ose",
+        "Sorath",
+        "Kokabiel",
+        "Orias",
+        "Baal",
+        "Abaddon",
+        "Naamah",
+        "Larzac",
+        "Cholistan",
+        "Archaeo-freighter",
+        "Mines of Karishh",
+        "Icefields of Riddah"
+      ],
+      "Type": [
+        "Mobile Defense",
+        "Spy",
+        "Exterminate",
+        "Defense",
+        "Excavation",
+        "Interception",
+        "Hijack",
+        "Sabotage",
+        "Rescue",
+        "Exterminate",
+        "Capture",
+        "Assassination",
+        "Defense ( Dark Sector )",
+        "Excavation ( Dark Sector )",
+        "Survival",
+        "Excavation",
+        "Defense"
+      ]
+    }
+  },
+  "Saturn": {
+    "Saturn": {
+      "Name": [
+        "Kronia Relay",
+        "Annihilation",
+        "Team Annihilation",
+        "Cephalon Capture",
+        "Lunaro Arena",
+        "Uranus Junction",
+        "Dione",
+        "Pandora",
+        "Cassini",
+        "Titan",
+        "Helene",
+        "Rhea",
+        "Anthe",
+        "Numa",
+        "Telesto",
+        "Enceladus",
+        "Keeler",
+        "Calypso",
+        "Tethys",
+        "Piscinas",
+        "Caracol"
+      ],
+      "Type": [
+        "Relay",
+        "Conclave",
+        "Conclave",
+        "Conclave",
+        "Conclave",
+        "Junction",
+        "Spy",
+        "Pursuit",
+        "Capture",
+        "Survival",
+        "Defense",
+        "Interception",
+        "Rescue",
+        "Rescue",
+        "Exterminate",
+        "Sabotage",
+        "Mobile Defense",
+        "Sabotage",
+        "Assassination",
+        "Survival ( Dark Sector )",
+        "Defection ( Dark Sector )"
+      ]
+    }
+  },
+  "Uranus": {
+    "Uranus": {
+      "Name": [
+        "Neptune Junction",
+        "Sycorax",
+        "Caelus",
+        "Ophelia",
+        "Umbriel",
+        "Stephano",
+        "Caliban",
+        "Ariel",
+        "Assur",
+        "Desdemona",
+        "Cressida",
+        "Titania",
+        "Rosalind",
+        "Puck",
+        "Ur",
+        "Brutus"
+      ],
+      "Type": [
+        "Junction",
+        "Exterminate",
+        "Interception",
+        "Survival",
+        "Interception",
+        "Defense",
+        "Rescue",
+        "Capture",
+        "Survival ( Dark Sector )",
+        "Sabotage",
+        "Mobile Defense",
+        "Assassination",
+        "Spy",
+        "Exterminate",
+        "Disruption ( Dark Sector )",
+        "Ascension"
+      ]
+    }
+  },
+  "Neptune": {
+    "Neptune": {
+      "Name": [
+        "Pluto Junction",
+        "Laomedeia",
+        "Galatea",
+        "Despina",
+        "Proteus",
+        "Salacia",
+        "Triton",
+        "Larissa",
+        "Sao",
+        "Neso",
+        "The Index: Endurance",
+        "Nereid",
+        "Psamathe",
+        "Yursa",
+        "Kelashin"
+      ],
+      "Type": [
+        "Junction",
+        "Disruption",
+        "Capture",
+        "Excavation",
+        "Defense",
+        "Mobile Defense",
+        "Rescue",
+        "Mobile Defense",
+        "Sabotage",
+        "Exterminate",
+        "Arena",
+        "Spy",
+        "Assassination",
+        "Defection ( Dark Sector )",
+        "Survival ( Dark Sector )"
+      ]
+    }
+  },
+  "Pluto": {
+    "Pluto": {
+      "Name": [
+        "Orcus Relay",
+        "Sedna Junction",
+        "Eris Junction",
+        "Minthe",
+        "Hydra",
+        "Palus",
+        "Outer Terminus",
+        "Cerberus",
+        "Narcissus",
+        "Oceanum",
+        "Acheron",
+        "Cypress",
+        "Regna",
+        "Hieracon",
+        "Sechura",
+        "Hades"
+      ],
+      "Type": [
+        "Relay",
+        "Junction",
+        "Junction",
+        "Mobile Defense",
+        "Capture",
+        "Survival",
+        "Defense",
+        "Interception",
+        "Exterminate",
+        "Spy",
+        "Exterminate",
+        "Sabotage",
+        "Rescue",
+        "Excavation ( Dark Sector )",
+        "Defense ( Dark Sector )",
+        "Assassination"
+      ]
+    }
+  },
+  "Sedna": {
+    "Sedna": {
+      "Name": [
+        "Naga",
+        "Hydron",
+        "Selkie",
+        "Berehynia",
+        "Rusalka",
+        "Adaro",
+        "Kappa",
+        "Marid",
+        "Charybdis",
+        "Kelpie",
+        "Merrow",
+        "Sangeru",
+        "Amarna",
+        "Nakki",
+        "Yam",
+        "Vodyanoi"
+      ],
+      "Type": [
+        "Rescue",
+        "Defense",
+        "Survival",
+        "Interception",
+        "Sabotage",
+        "Exterminate",
+        "Disruption",
+        "Hijack",
+        "Mobile Defense",
+        "Spy",
+        "Assassination",
+        "Defense ( Dark Sector )",
+        "Survival ( Dark Sector )",
+        "Arena",
+        "Arena",
+        "Arena"
+      ]
+    }
+  },
+  "Eris": {
+    "Eris": {
+      "Name": [
+        "Naeglar",
+        "Mutalist Alad V Assassinate",
+        "Nimus",
+        "Kala-azar",
+        "Xini",
+        "Jordas Golem Assassinate",
+        "Brugia",
+        "Isos",
+        "Oestrus",
+        "Saxis",
+        "Solium",
+        "Zabala",
+        "Akkad"
+      ],
+      "Type": [
+        "Sabotage",
+        "Assassination",
+        "Survival",
+        "Defense",
+        "Interception",
+        "Assassination",
+        "Rescue",
+        "Capture",
+        "Infested Salvage",
+        "Exterminate",
+        "Mobile Defense",
+        "Survival ( Dark Sector )",
+        "Defense ( Dark Sector )"
+      ]
+    }
+  },
+  "Kuva Fortress": false,
+  "Void": {
+    "Void": {
+      "Name": [
+        "Taranis",
+        "Teshub",
+        "Hepit",
+        "Stribog",
+        "Tiwaz",
+        "Ani",
+        "Ukko",
+        "Belenus",
+        "Oxomoco",
+        "Aten",
+        "Mithra",
+        "Marduk",
+        "Mot"
+      ],
+      "Type": [
+        "Defense",
+        "Exterminate",
+        "Capture",
+        "Sabotage",
+        "Mobile Defense",
+        "Survival",
+        "Capture",
+        "Defense",
+        "Exterminate",
+        "Mobile Defense",
+        "Interception",
+        "Sabotage",
+        "Survival"
+      ]
+    }
+  },
+  "Zariman": false,
+  "Kuva_Fortress": {
+    "Kuva_Fortress": {
+      "Name": [
+        "Dakata",
+        "Koro",
+        "Rotuma",
+        "Nabuk",
+        "Garus",
+        "Pago",
+        "Taveuni",
+        "Tamu"
+      ],
+      "Type": [
+        "Exterminate",
+        "Assault",
+        "Mobile Defense",
+        "Defense",
+        "Rescue",
+        "Spy",
+        "Survival",
+        "Disruption"
+      ]
+    }
+  },
+  "Zariman_Ten_Zero": {
+    "Zariman_Ten_Zero": {
+      "Name": [
+        "Dormizone",
+        "Chrysalith",
+        "The Circuit",
+        "The Duviri Experience",
+        "The Lone Story (Duviri)",
+        "Oro Works",
+        "Halako Perimeter",
+        "Tuvul Commons",
+        "The Greenway",
+        "Everview Arc",
+        "Isleweaver"
+      ],
+      "Type": [
+        "Hub",
+        "Hub",
+        "Open World",
+        "Open World",
+        "Open World",
+        "Void Armageddon",
+        "Exterminate",
+        "Void Cascade",
+        "Mobile Defense",
+        "Void Flood",
+        "Open World"
+      ]
+    }
+  }
+}
