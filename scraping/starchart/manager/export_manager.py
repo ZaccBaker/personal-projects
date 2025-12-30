@@ -1,4 +1,5 @@
 import os, json
+from util.toDataName import toDataName
 
 
 PATH = "exports/"
@@ -23,14 +24,27 @@ class ExportManager:
     
     def update(self, fileName : str, planet : str, _dict : dict) -> None:
 
+        ZARIMAN = "Zariman"
+
+        planet_ = toDataName(planet)
+        print(f"Planet name: {planet_}")
+
         file_name = f"{PATH}{fileName}.json"
 
-        with open(file_name, 'r') as file:
-            data = json.load(file) # Deserialize JSON to a Python dictionary
+        if ZARIMAN not in planet_:
+            with open(file_name, 'r') as file:
+                data = json.load(file)
 
-        # 2. Modify the Python object
-        data[planet] = _dict
+            data[planet_] = _dict
 
-        # 3. Write the updated data back to the file
-        with open(file_name, 'w') as file:
-            json.dump(data, file, indent=2) # Serialize and write to file
+            with open(file_name, 'w') as file:
+                json.dump(data, file, indent=2)
+        else:
+            print("Zariman used!")
+            with open(file_name, 'r') as file:
+                data = json.load(file)
+
+            data[ZARIMAN] = _dict
+
+            with open(file_name, 'w') as file:
+                json.dump(data, file, indent=2)

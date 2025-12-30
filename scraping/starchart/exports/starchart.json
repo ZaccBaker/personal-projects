@@ -613,7 +613,28 @@
       "Defense ( Dark Sector )"
     ]
   },
-  "Kuva Fortress": false,
+  "Kuva Fortress": {
+    "Name": [
+      "Dakata",
+      "Koro",
+      "Rotuma",
+      "Nabuk",
+      "Garus",
+      "Pago",
+      "Taveuni",
+      "Tamu"
+    ],
+    "Type": [
+      "Exterminate",
+      "Assault",
+      "Mobile Defense",
+      "Defense",
+      "Rescue",
+      "Spy",
+      "Survival",
+      "Disruption"
+    ]
+  },
   "Void": {
     "Name": [
       "Taranis",
@@ -646,30 +667,7 @@
       "Survival"
     ]
   },
-  "Zariman": false,
-  "Kuva_Fortress": {
-    "Name": [
-      "Dakata",
-      "Koro",
-      "Rotuma",
-      "Nabuk",
-      "Garus",
-      "Pago",
-      "Taveuni",
-      "Tamu"
-    ],
-    "Type": [
-      "Exterminate",
-      "Assault",
-      "Mobile Defense",
-      "Defense",
-      "Rescue",
-      "Spy",
-      "Survival",
-      "Disruption"
-    ]
-  },
-  "Zariman_Ten_Zero": {
+  "Zariman": {
     "Name": [
       "Dormizone",
       "Chrysalith",
