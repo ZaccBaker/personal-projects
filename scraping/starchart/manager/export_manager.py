@@ -40,7 +40,6 @@ class ExportManager:
             with open(file_name, 'w') as file:
                 json.dump(data, file, indent=2)
         else:
-            print("Zariman used!")
             with open(file_name, 'r') as file:
                 data = json.load(file)
 

@@ -34,6 +34,22 @@ class DataManager:
 
         for pair in mission_array:
             new_dict["Name"].append(pair[0])
-            new_dict["Type"].append(pair[1])
+            if "Dark Sector" in pair[1]:
+                if "Survival" in pair[1]:
+                    new_dict["Type"].append("Survival")
+                elif "Defense" in pair[1]:
+                    new_dict["Type"].append("Defense")
+                elif "Excavation" in pair[1]:
+                    new_dict["Type"].append("Excavation")
+                elif "Defection" in pair[1]:
+                    new_dict["Type"].append("Defection")
+                elif "Disruption" in pair[1]:
+                    new_dict["Type"].append("Disruption")
+                else:
+                    new_dict["Type"].append(pair[1])  
+            elif "Archwing" in pair[1]:
+                new_dict["Type"].append("Rush")
+            else:
+                new_dict["Type"].append(pair[1])
 
         return new_dict
